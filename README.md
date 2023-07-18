@@ -3,7 +3,7 @@ Just a generic frontend / backend configuration
 
 ### XAMPP for DB
 
-- Install [XAMPP](https://sourceforge.net/projects/xampp/files/) *(if you don't have any specific specifications, use the default setup-wizard settings)*
+- Install [XAMPP](https://sourceforge.net/projects/xampp/files/) *(if you don't have any specifications, use the default setup-wizard settings)*
 - For MyAdmin you need to start `Apache` and `MySQL`  
   ![xampp_start](https://github.com/SenselessCoding/setup_front-end/assets/139842164/e130dba7-9780-4f14-bd8b-ec591516701f)
 - Open [PhpMyAdmin](http://localhost/phpmyadmin) (localhost/phpmyadmin)
