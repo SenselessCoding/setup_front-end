@@ -11,8 +11,26 @@ Just a generic frontend / backend configuration
   
 ---
 
-<details>
-  <summary>Jetbrains Toolbox for Fleet</summary>
-  
-  https://www.jetbrains.com/de-de/fleet/download/#section=windows
-</details>
+### Fleet
+
+  - Your backend should be set now, for a simple web-application we use good ol' ``PHP``
+  - Use a editor of your choice, I will be using [Fleet](https://www.jetbrains.com/de-de/fleet/download/#section=windows).
+
+### Workspace prep
+
+- Find your xampp folder
+```
+D:\xampp\htdocs
+```
+and completly wipe it.
+
+- In your editor, use this folder to display elements on you page
+  ![workspace](https://github.com/SenselessCoding/setup_front-end/assets/139842164/7c9290ab-7065-4aa3-a876-59493d26bb41)
+
+- If you want to test the page, create a `index.php` file and paste following in
+```php
+<?php
+phpinfo();
+?>
+```
+- I will be using `PDO` and `MYSQLI`. If you want to follow me step by step make sure `phpinfo` lists those.
