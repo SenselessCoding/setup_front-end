@@ -10,7 +10,7 @@ Just a generic frontend / backend configuration
   https://sourceforge.net/projects/xampp/files/  
   
 
-  Default settings beibehalten im SetUp Wizard
+  Use the default settings the wizards presents you with
 </details>
 
 <details>
