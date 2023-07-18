@@ -1,17 +1,15 @@
 # setup_front-end
 Just a generic frontend / backend configuration 
 
+### XAMPP for DB
 
-<details>
-  <summary>XAMPP</summary>
-  xampp-windows-x64-8.2.4-0-VS16  
-
+- Install [XAMPP](https://sourceforge.net/projects/xampp/files/) *(if you don't have any specific specifications, use the default setup-wizard settings)*
+- For MyAdmin you need to start `Apache` and `MySQL`  
+  ![xampp_start](https://github.com/SenselessCoding/setup_front-end/assets/139842164/e130dba7-9780-4f14-bd8b-ec591516701f)
+- Open [PhpMyAdmin](http://localhost/phpmyadmin) (localhost/phpmyadmin)
+- You can create/import your DB now. It's recommended to use smt like MySqlWorkbench or Datagrip for its usability, <br>anyhow for default proof-of-concept stuff like this you can neglect those
   
-  https://sourceforge.net/projects/xampp/files/  
-  
-
-  Use the default settings the wizards presents you with
-</details>
+---
 
 <details>
   <summary>Jetbrains Toolbox for Fleet</summary>
