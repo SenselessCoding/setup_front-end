@@ -33,4 +33,3 @@ and completly wipe it.
 phpinfo();
 ?>
 ```
-- I will be using `PDO` and `MYSQLI`. If you want to follow me step by step make sure `phpinfo` lists those.
