@@ -14,7 +14,7 @@ Just a generic frontend / backend configuration
 </details>
 
 <details>
-  <summary>Jetbrains Toolbox</summary>
+  <summary>Jetbrains Toolbox for Fleet</summary>
   
   https://www.jetbrains.com/de-de/fleet/download/#section=windows
 </details>
