@@ -11,6 +11,10 @@ Just a generic frontend / backend configuration
   
 ---
 ### MySQL-Workbench
+- Install [MySQL-Workbench](https://dev.mysql.com/downloads/workbench/)
+- Give the connection a name(f.e:my_db_connector)
+- Host is localhost(127.0.0.1), Port 3306(like shown in XAMPP)
+- User is root and password is empty
 
 ---
 
