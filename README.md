@@ -11,14 +11,14 @@ Just a generic frontend / backend configuration
   
 ---
 ### MySQL-Workbench
-- Install [MySQL-Workbench](https://dev.mysql.com/downloads/workbench/)
-- Give the connection a name(f.e:my_db_connector)
-- Host is localhost(127.0.0.1), Port 3306(like shown in XAMPP)
-- User is root and password is empty
+- Install [MySQL-Workbench](https://dev.mysql.com/downloads/workbench/)<br>
+  ![image](https://github.com/SenselessCoding/setup_front-end/assets/139842164/888d5401-38f7-4e48-8cd6-887b05af9356)
 
-  Either create your DB manually or do it with an ERM
-- Click `File` - `New Model` - Modify `DB name` if wanted - Click `Add Diagram`
-- Once you are done you can click `Database` - `Forward Engineer`
+
+  Either create your DB manually or do it with an ERM(`Forward Engineer`) like this:
+- Click `File` -> `New Model` -> Modify `DB name` -> Click `Add Diagram`
+- Create/Design your Diagram
+- Once you are done you can click `Database` -> `Forward Engineer`
 - Keep the basic values in the wizard, make sure connect is correct
 ---
 
