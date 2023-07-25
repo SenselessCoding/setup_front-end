@@ -16,9 +16,10 @@ Just a generic frontend / backend configuration
 - Host is localhost(127.0.0.1), Port 3306(like shown in XAMPP)
 - User is root and password is empty
 
-- Either create your DB manually or do it with an ERM
-- Click File - New Model - Modify DB name if wanted - Add Diagram
-
+  Either create your DB manually or do it with an ERM
+- Click `File` - `New Model` - Modify `DB name` if wanted - Click `Add Diagram`
+- Once you are done you can click `Database` - `Forward Engineer`
+- Keep the basic values in the wizard, make sure connect is correct
 ---
 
 ### Fleet
