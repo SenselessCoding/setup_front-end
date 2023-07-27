@@ -11,6 +11,7 @@ Just a generic frontend / backend configuration
   
 ---
 ### MySQL-Workbench
+- Install [x64 - Visual C++ 2019](https://learn.microsoft.com/en-US/cpp/windows/latest-supported-vc-redist?view=msvc-170)
 - Install [MySQL-Workbench](https://dev.mysql.com/downloads/workbench/)<br>
 - Keep default settings in wizard<br>
   ![image](https://github.com/SenselessCoding/setup_front-end/assets/139842164/888d5401-38f7-4e48-8cd6-887b05af9356)
